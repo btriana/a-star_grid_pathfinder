@@ -1,0 +1,3 @@
+A* Grid Pathfinder will find a path between two locations on a grid using A*.
+
+Compiles with Visual Studio 2010.
